@@ -1,4 +1,6 @@
 # zero-perecent-ai
 Repository for сlouds technologies
 
-DevOps labs
+Мосин Александр Павлович 
+
+DevOps 
