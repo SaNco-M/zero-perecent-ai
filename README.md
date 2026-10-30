@@ -2,5 +2,3 @@
 Repository for сlouds technologies
 
 Мосин Александр Павлович 
-
-DevOps 
